@@ -17,9 +17,12 @@
     {
       "id": 4,
       "nombre": "Data Science",
+      "color": "#AA00FF"
+    },
+    {
+      "id": 5,
+      "nombre": "Autos",
       "color": "#6BD1FF"
     }
   ]
 }
-
-
