@@ -2,7 +2,7 @@
     {
       "id": 1,
       "nombre": "Front End",
-      "color": "#6BD1FF"
+      "color": "#E50000"
     },
     {
       "id": 2,
@@ -17,7 +17,7 @@
     {
       "id": 4,
       "nombre": "Data Science",
-      "color": "#f87308"
+      "color": "#6BD1FF"
     }
   ]
 }
